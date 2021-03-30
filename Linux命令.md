@@ -29,8 +29,12 @@
    ```
    pip install tensorflow
    ```
+5. 安装opencv
+   ```
+   pip install opencv-python
+   ```
 
-5. 查看cuda版本
+6. 查看cuda版本
 
    ```
    nvcc --version
